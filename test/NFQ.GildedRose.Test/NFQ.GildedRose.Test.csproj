@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\NFQ.GildedRose.Console\NFQ.GildedRose.Console.csproj" />
     <ProjectReference Include="..\..\src\NFQ.GildedRose.Domain\NFQ.GildedRose.Domain.csproj" />
   </ItemGroup>
 
